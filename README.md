@@ -55,7 +55,7 @@ If you see version information, FFmpeg is installed correctly.
 Open a terminal and clone the `MusicDownloader-Telegram-Bot` repository from GitHub:
 
 ```zsh
-git clone https://github.com/AdibNikjou/MusicDownloader-Telegram-Bot.git
+git clone https://github.com/method-shop/MusicDownloader-Telegram-Bot.git
 ```
 
 ### Step 3: Install Python Dependencies
